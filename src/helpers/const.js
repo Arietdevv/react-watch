@@ -1,0 +1,3 @@
+export const ACTION_PRODUCT = {
+  GET_ONE_PRODUCT: "GET_ONE_PRODUCT",
+};
